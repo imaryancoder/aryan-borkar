@@ -1,0 +1,6 @@
+{
+  "name": "Road Marksman - Street Shooter & AI Studio Prompt Hub",
+  "description": "An action street arcade shooter where you play a marksman targeting moving characters on the road, with an interactive prompt builder tailored for Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
